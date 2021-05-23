@@ -1,0 +1,165 @@
+
+
+#title{
+    background-color: #ff4c68;
+    color:#fff;
+    }
+
+h1{
+    font-family:"Montserrat";
+    font-weight: 900;
+    font-size: 3.5rem;
+    }
+
+h2{
+    font-family:"Montserrat";
+    font-weight: bold;
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+    }
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+
+body{
+    font-family: "Montserrat";
+}
+
+
+
+/* navigation bar */
+
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.nav-item{
+    padding: 1rem;
+}
+
+/* buttons */
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+/* title image */
+
+.title-img{
+    transform: rotate(20deg);
+    width: 50%;
+    position: absolute;
+    left: 32%;
+}
+h3{
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+p{
+    color: #8f8f8f;
+}
+
+/* features */
+
+#features{
+    padding: 7% 15%;
+    position: relative;
+    background-color: #fff;
+}  
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    font-size: 4rem;
+    color: #ff4c68;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: red;
+}
+
+/* testimonial section */
+
+#testimonials{
+    text-align: center;
+    background-color: #ff4c68;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    text-align: center;
+    background-color: #ff4c68;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+    /* pricing */
+
+    
+#pricing{
+    padding: 5% 15% 3%;
+    text-align: center;
+}
+.pricing-col{
+    padding: 3% 2%;
+}
+
+#pricing h2{
+    font-size: 1.5rem;
+}
+
+/* cta */
+
+#cta{
+    background-color: #ff4c68;
+    padding: 7% 15% 3%;
+    text-align: center;
+}
+
+#cta h3{
+    font-size: 3rem;
+    font-family: 'Montserrat' sans-serif;
+    font-weight: 900;
+    color: #fff;
+}
+#cta .btn{
+    margin: 5% 0.5%;
+}
+
+/* footer */
+
+#footer{
+    text-align: center;
+    padding: 5% 7% 0.5%;
+}
+#footer i{
+    padding: 0 1%;
+    color: rgb(32, 81, 243);
+}
+
+/* sections */
+
